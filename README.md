@@ -9,8 +9,8 @@
 
 ##  :beginner: About
 Broken String is a fully responsive, modern, full stack, ecommerce application with real time payment integration. 
-Modern design, anomations, the ability to add and delete products as you please using a content management system (Sanity). 
-Advanced cart functionalities and most importantly, complete integration with Stripe, covering real playments.
+Modern design, ano=imations, the ability to add and delete products as you please using a content management system (Sanity). 
+Advanced cart functionalities and most importantly, complete integration with Stripe, covering real payments.
 
 - React Practices: [ Folder & File Structure ], [ Hooks & Refs ] 
 - App State Management : [ React Context API ]
